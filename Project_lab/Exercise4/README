@@ -1,0 +1,14 @@
+LETTURA DEI JUPYTER:
+
+Iniziare la lettura da "Introductory notebook" nella cartella "Exercise", e proseguire secondo le istruzioni.
+Nota: non tutti i grafici presentati sono riproducibili senza modificare manualmente il codice in alcuni punti.
+
+LETTURA DEL CODICE:
+
+Allo stato attuale il codice viene lanciato con ./main.exe e guida l'utente attraverso la simulazione
+di dinamica molecolare della fase solida. 
+Per evitare sovrascritture il codice salva di default in una cartella altrimenti vuota "WorkInProg",
+e tutti i file hanno la forma <file_name>(0).dat in modo da poter essere spostati in altre cartelle senza
+problemi di omonimia.
+Per riprodurre grafici presenti nel jupyter bisognerà aggiugere i file nelle cartelle di riferimento.
+Il codice NON esegue il calcolo della g(r), per questo bisogna manualmente scommentare la relativa parte nel main.

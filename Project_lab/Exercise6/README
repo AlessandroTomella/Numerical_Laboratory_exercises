@@ -1,0 +1,11 @@
+CODICE
+
+Allo stato attuale il codice non scrive su alcun file, lancia semplicemente una simulazione del modello
+a T = 2 con sampling Metropolis, chiedendo, prima di lanciarla, se si vuole far equilibrare.
+
+Scommentando le righe di ofstream il codice salverà su file nela cartella WorkInProg le corrispondenti 
+quantità da salvare.
+
+Per riprodurre l'intero dataset (Valori in tutto il range di temperatura di tutte le quantità termodinamiche)
+basta sostituire, nel ciclo for che compare nella prima riga del main, la condizione "j<nbins" al posto dell'attuale
+"j<1"

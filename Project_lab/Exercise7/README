@@ -1,0 +1,13 @@
+CODICE
+
+Allo stato attuale il codice simula la fase solida nonstampa alcun risultato.
+Il codice è stato utilizzato per:
+1) stampare su file i valori istantanei di energia e pressione,
+ e tutte le analisi statistiche sono state fatte su quei dati
+ (cartella Istantaneous)
+2) calcolare a g(r) 
+
+JUPYTER
+
+Come per l'esercizio di dinamica molecolare, si consiglia di iniziare
+la lettura dall'"Introductory notebook".

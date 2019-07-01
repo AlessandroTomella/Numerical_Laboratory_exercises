@@ -1,0 +1,5 @@
+CODICE
+
+Allo stato attuale il codice lancia una simulazione su una mappa circolare
+e salva i vari dati nella cartella WorkInProg e nelle varie sottocartelle, 
+per evitare riscritture di file importanti

@@ -1,0 +1,6 @@
+CODICE:
+
+Il codice allo stato attuale fa un sampling uniforme degli stati specificati scelti dall'utente
+e salva il risultato in una cartella vuota "WorkInProg".
+Per fare un sampling Gaussiano si deve intervenire direttamente nel main scommentando la riga
+corrispondente (unica commentata).

@@ -1,0 +1,15 @@
+0
+70
+10
+0.2
+1.0
+0.5
+100
+ 
+ input >> geometry;
+ input >> ncities;
+ input >> init_shuffle;
+ input >> pmutation;
+ input >> init_beta;
+ input >> beta_incr;
+ input >> nstep;
